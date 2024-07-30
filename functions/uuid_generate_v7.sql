@@ -7,7 +7,7 @@
 -- UUID_GENERATE_V7
 --------------------------------------------------------------------------------
 
--- Based on IETF draft, https://datatracker.ietf.org/doc/draft-ietf-uuidrev-rfc4122bis/
+-- Based on RFC9562, https://datatracker.ietf.org/doc/html/rfc9562
 
 --  0                   1                   2                   3
 --  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
